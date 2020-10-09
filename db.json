@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "00000017559",
+      "name": "Reza",
+      "address": "Taman Royal 2 Tangerang"
+    },
+    {
+      "id": "00000016447",
+      "name": "stefanus deo",
+      "address": "jl letda d suprapto no 18 a pasar baru"
+    },
+    {
+      "id": "00000016890",
+      "name": "Fredy",
+      "address": "jlin aja dulu siapa tau jadian"
+    },
+    {
+      "id": "00000013224",
+      "name": "Dio",
+      "address": "jl letda d suprapto"
+    }
+  ]
+}

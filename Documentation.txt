@@ -1,0 +1,13 @@
+Halo Ibu
+
+untuk menjalankan dengan baik
+dipersilahkan unutk melakukan penginstalan JSON-Server terlebih dahulu dengan mengetik perintah dibawah di terminal
+npm install -g json-server
+
+setelah melakukan penginstalan, masukan perinth di bawah ini ke terminal untuk menjalankan db.json
+json-server --watch db.json
+
+setelah berhasil maka untuk melihat data API di postman dan di browser bisa cek http://localhost:3000/users
+
+apa bila kurang jelas bisa cek di video yang diberikan atau melihat dokumentasi dibawah ini
+https://github.com/typicode/json-server
